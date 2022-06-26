@@ -12,7 +12,9 @@ of Avare directly from our server, for those with Android devices who
 are unable to install from the Google Play store for any reason. We
 also offer older versions of Avare on our server, for those with older
 devices or Android versions not supported by our latest Avare
-versions. \***NOTE: _Avare versions before 8.0.8 are not functional
+versions. We suggest that you read through the steps below before starting,
+and we request that if you have questions after doing so - ask on our Forum.
+\***NOTE: _Avare versions before 8.0.8 are not functional
 with current charts._** In practical terms, this means that **Android
 version 4.3** (released 7/13/2012) and newer is required to use Avare
 with current charts. As of this writing, there are no expired charts
@@ -20,8 +22,9 @@ supplied by Apps4Av available for use with older versions of Avare.
 
 While far less convenient than the "one-click" installation on Google
 Play, we hope these directions will be helpful for Avare users who
-need a manual installation option. \***Notes:** Avare **versions older
-than 8.0.8 will not work**, because the free FAA supporting files
+need a manual installation option. 
+\***Notes:** Avare **versions older than 8.0.8 will not work**, 
+because the free FAA supporting files
 (current charts, etc.) supplied by Apps4Av are only compatible with
 versions 8.0.8 and newer. Although we endeavor to ensure the integrity
 of our Manual Install versions of Avare, the Google Play Store or
@@ -30,7 +33,7 @@ to work on your device. If your device won't install Avare on the Play
 Store you might consider buying a different or newer **Android**
 device (Avare is not available for iOS). The first version of the
 Nexus 7 tablet can be upgraded to Android 4.4, and Apps4Av Forum users
-report buying great used and even new Android devices for $50 or less.
+report buying great used and even new Android tablets for $50 or less.
 
 1. _UnInstall:  If you have already installed Avare previously (skip
    this step if you don't already have Avare installed), begin by
